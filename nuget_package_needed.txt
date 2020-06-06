@@ -1,3 +1,1 @@
-install-package Microsoft.Owin.Security.OpenIdConnect
-install-package Microsoft.Owin.Security.Cookies
-install-package Microsoft.Owin.Host.SystemWeb
+
